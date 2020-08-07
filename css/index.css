@@ -57,6 +57,7 @@ table {
 html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
+    width: 100%;
 }
 
 h1, h2, h3, h4, h5 {
@@ -86,7 +87,7 @@ p {
 }
 
 header nav {
-    width: 60%;
+    width: 52%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -105,8 +106,6 @@ header nav a {
     align-items: center;
     margin-bottom: 2%;;
 }
-
-
 
 
 /* TOP CONTENT */
@@ -285,7 +284,7 @@ footer {
 }
 
 footer nav {
-    width: 60%;
+    width: 42%;
     background: black;
     display: flex;
     justify-content: space-between;
@@ -307,7 +306,7 @@ footer nav a {
     justify-content: center;
     align-content: center;
     margin: 0 auto;
-    width: 60%;
+    width: 42%;
 }
 
 .strategy-div, .work-div, .office-div, .colab-div {
@@ -339,7 +338,7 @@ button {
     justify-content: center;
     align-content: center;
     margin: 0 auto;
-    width: 60%;
+    width: 42%;
     padding-top: 2%;
     padding-bottom: 1%;
 }
