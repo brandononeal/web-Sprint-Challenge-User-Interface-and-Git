@@ -1,0 +1,19 @@
+1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+Semantic HTML is used to give meaning to your code
+
+2. Name two big differences between display: block; and display: inline;.
+
+Display: block places every element on a different row and display: inline places all elements in the same row
+
+3. What are the 4 areas of the box model?
+
+Content, padding, border, and margin
+
+4. While using flexbox, what axis does the following property work on: align-items: center?
+
+Align-items: center is used to center elements along the cross axis
+
+5. Explain why git is valuable to a team of developers.
+
+It allows many people to work on a project together and keep track of all the changes made along the way
